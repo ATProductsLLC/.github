@@ -1,5 +1,5 @@
 <div align="center">
- <a href="https://atproducts.xyz"><img src="/public/media/images/longwhite@2x.png" alt="AT Products LLC" height="150px"></a>
+ <a href="https://atproducts.xyz"><img src="https://atproducts.xyz/media/images/longwhite@2x.png" alt="AT Products LLC" height="150px"></a>
  <br><br>
  <a href="https://atproducts.xyz">atproducts.xyz</a>
 </div>
